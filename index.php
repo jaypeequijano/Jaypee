@@ -4,7 +4,7 @@
 	<title>John Paul</title>
 </head>
 <body>
-<p>Hello Im John Paul Quijano</p>
+<img src="diagram.jpg">
 
 </body>
 </html>
